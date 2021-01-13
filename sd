@@ -1,0 +1,98 @@
+[33mcommit 3f4a77814889f900e0df6c39a762443ed9a14788[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 23:45:42 2021 +0800
+
+    Adding introduction text
+
+[33mcommit 4135b98c161b4909a0724ddf88dee1547d4ba49d[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 23:41:41 2021 +0800
+
+    Adding Description
+
+[33mcommit 0e6042c96252ae2391d6842d1e4a5da43007be6d[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 23:38:39 2021 +0800
+
+    Adding new section: Deployment
+
+[33mcommit 693cca90dded289b529968a515fc8f2dc8ad0eea[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 23:37:14 2021 +0800
+
+    Adding new section: Deployment
+
+[33mcommit fdfefe32291889fec9e8414bb7fb88816ebeb954[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 23:33:14 2021 +0800
+
+    Adding README file
+
+[33mcommit 4847bd85daa7d3e23bb1719346f2396aeb4b5cbd[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 16:11:59 2021 +0800
+
+    Moving file from level2 to level3
+
+[33mcommit 2305f1bbc085250dd188fe47b5d62cba16793a0a[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 16:03:34 2021 +0800
+
+    Renaming level 2 file
+
+[33mcommit ad9ae9abc2a6269e5326ca3a639c5935872629b7[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 14:30:02 2021 +0800
+
+    renaming level3
+
+[33mcommit 6d5069a7184b6d4fa74a03b2b2f469dc83f71390[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Mon Jan 11 13:31:07 2021 +0800
+
+    I dont know what the fuck is this but I gotta complete tho
+
+[33mcommit c964a4264d52d102ce14dc895342bf2207abf395[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Sun Jan 10 23:07:19 2021 +0800
+
+    Adding new file
+
+[33mcommit e145c36be4d596fc0e3e246fa8c3b9664ac5efa6[m
+Author: Wesly Nieva <wesly@git.training>
+Date:   Sun Jan 10 23:01:39 2021 +0800
+
+    Adding more ipsum text
+
+[33mcommit 12547236ff5cb6168016e7304e3fe1e3708f1c73[m
+Author: Wesly Nieva <wesly.nieva@gmail.com>
+Date:   Sun Jan 10 22:41:23 2021 +0800
+
+    my first commit
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
