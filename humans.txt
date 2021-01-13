@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Wesly Nieva		wesly@git.training	@wsrnieva
 
 # THANKS
 
